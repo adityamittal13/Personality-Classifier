@@ -4,7 +4,7 @@ This project uses a combination of machine learning algorithms and the careful s
 
 # Prerequisites
 
-This project assumes an intermediate to advanced knowledge of Python and its data science libraries, including Numpy, Keras, Tensorflow, and Pandas. Additionally knowledge of CNNs and how object detection algorithms will be useful is helpful.
+This project assumes an intermediate to advanced knowledge of Python and its data science libraries, including Numpy, Keras, Tensorflow, and Pandas. Additionally knowledge of CNNs and how object detection algorithms will be useful is helpful. 
 
 ## Dependencies
 
