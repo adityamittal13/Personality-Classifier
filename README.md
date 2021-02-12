@@ -13,7 +13,7 @@ This project assumes an intermediate to advanced knowledge of Python and its dat
 - Pandas: >1.2
 - OpenCV: >4.0
 - dlib: 19.21.1
-- Numpy: >1.20
+- Numpy: >1.20 
 - imutils: >0.5
 
 # Dataset
