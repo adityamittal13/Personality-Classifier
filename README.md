@@ -9,7 +9,7 @@ This project assumes an intermediate to advanced knowledge of Python and its dat
 ## Dependencies
 
 - Python: >3.7
-- Tensorflow: >2.4
+- Tensorflow: >2.4 
 - Pandas: >1.2
 - OpenCV: >4.0
 - dlib: 19.21.1
