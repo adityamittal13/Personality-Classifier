@@ -12,7 +12,7 @@ This project assumes an intermediate to advanced knowledge of Python and its dat
 - Tensorflow: >2.4 
 - Pandas: >1.2
 - OpenCV: >4.0
-- dlib: 19.21.1
+- dlib: 19.21.1 
 - Numpy: >1.20 
 - imutils: >0.5
 
